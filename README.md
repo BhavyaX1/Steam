@@ -2,6 +2,15 @@
 
 A console-based Steam-inspired game store developed using **Python and MySQL** as a Class 12 project.
 
+## 🕰️ A Piece of History
+
+This project was originally created as my Class 12 Computer Science
+project. It is preserved in its original form as a snapshot of my
+early programming journey.
+
+It may not follow the practices I use today, but that's kind of the
+point. Looking back at this project is a reminder of where I started.
+
 ## 📌 About
 
 This project simulates a basic game store where users can browse games and DLCs, search for games, make purchases, and view their transaction history. It also includes a separate admin interface for managing games, DLCs, and their prices.
