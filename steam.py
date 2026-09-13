@@ -1,7 +1,7 @@
 import mysql.connector
 import random
 from prettytable import PrettyTable
-con=mysql.connector.connect(host="localhost",user="root",password="bhavya579",database="steamproject")
+con=mysql.connector.connect(host="localhost",user="root",password="YOUR_PASSWORD",database="YOUR_DB")
 cur=con.cursor()
 print("--------------------------------------------------------")
 print("-------------------------LOGIN--------------------------")
